@@ -1,2 +1,2 @@
 # LearningGitHub
-This is my first ever repository created for learnin git and github purposes.
+This is my first ever repository created for learning git and github purposes.
